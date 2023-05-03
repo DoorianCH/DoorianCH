@@ -5,7 +5,9 @@
 - Use 'ChatGPT' to acquire code
 - Separate HTML and css files
 - Add other commands (ex: pretty)
-* gitAddress (https://github.com/DoorianCH/htmlStudy_GitTest)
+* gitAddress, Preparing(https://github.com/DoorianCH/htmlStudy_GitTest)
+
+
 
 
 
@@ -16,7 +18,7 @@
 - ChatGpt를 활용하여 코드를 획득한다
 - html과 css파일을 분리한다
 - 기타 명령어를 추가한다(ex : 예쁜)
-* gitAddress (https://github.com/DoorianCH/htmlStudy_GitTest)
+* gitAddress, 준비중(https://github.com/DoorianCH/htmlStudy_GitTest)
 
 <!--
 **DoorianCH/DoorianCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
