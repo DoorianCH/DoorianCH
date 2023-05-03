@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here is the "Portfolio" page.
+Store various codes and information of AI technology
+
+이곳은 포트폴리오 페이지입니다.
+AI기술의 각종 코드 및 정보를 기록합니다.
+
+1. Chat gpt 활용 Project
 <!--
 **DoorianCH/DoorianCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
