@@ -20,6 +20,10 @@
 ## 반가워요, 제 이름은 재광입니다. 👋 AI기술의 각종 코드 및 정보를 기록합니다.
 
 ## 소개
+- History :
+  - "경인교육대학교" 졸업 (2011.03 ~ 2017.02) [CLICK](https://lms.ginue.ac.kr/?epTicket=LOG)
+  - "자란 초등학교" 담임 교사 (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
+  - "광주교육대학교 부설 초등학교" 담임 교사 (2021.03 ~ 2022.02) [CLICK](http://buseol.gnue.ac.kr/main/main.php)
 - 📫 현재 'ICT inovation'교육을 수강중입니다.
 ## 프로젝트
 ### 1. ChatGpt를 이용한 의류 추천(2023.05.03 ~ 05.12)
