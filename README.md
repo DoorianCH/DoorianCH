@@ -4,7 +4,6 @@
 - 📫 I’m currently studing on 'ICT inovation'.
 ## Project
 ### 1. Recommend-cloths-using-ChatGpt
-  <img width = "10%" src ="https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
   - using : ChatGpt, python, flask, html, css
   - gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
