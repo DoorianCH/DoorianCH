@@ -1,5 +1,5 @@
 ## Hi my name is Jay.👋 Store various codes and information of AI technology
-## Introduction
+## 📃Introduction
 - History :
   - Graduation "Gyeongin National University of Education" (2011.03 ~ 2017.02) [CLICK](https://lms.ginue.ac.kr/?epTicket=LOG)
   - Working "JARAN elementary school" homeroom teacher (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
@@ -21,8 +21,8 @@
 
 ## 반가워요, 제 이름은 재광입니다. 👋 AI기술의 각종 코드 및 정보를 기록합니다.
 
-## 소개
-- History :
+## 📃소개
+- 약력 :
   - "경인교육대학교" 졸업 (2011.03 ~ 2017.02) [CLICK](https://lms.ginue.ac.kr/?epTicket=LOG)
   - "자란 초등학교" 담임 교사 (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
   - "광주교육대학교 부설 초등학교" 담임 교사 (2021.03 ~ 2022.02) [CLICK](http://buseol.gnue.ac.kr/main/main.php)
