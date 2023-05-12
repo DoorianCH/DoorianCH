@@ -18,7 +18,7 @@
 ## 프로젝트
   ### 1. ChatGpt를 이용한 의류 추천 
   - using :  ChatGpt, python, flask, html, css
-  - - gitAddress, 클릭(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
+  - gitAddress, 클릭(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
 <!--
 **DoorianCH/DoorianCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
