@@ -3,9 +3,9 @@
 ## 소개
 
 ## Project
-  1. Recommend-cloths-using-ChatGpt
-- using : ChatGpt, python, flask, html, css
-- gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
+  # 1. Recommend-cloths-using-ChatGpt
+  - using : ChatGpt, python, flask, html, css
+  - gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
 * * *
 
@@ -15,10 +15,10 @@
 
 ## 소개
 
-### 프로젝트
-  1. ChatGpt를 이용한 의류 추천 
-- using :  ChatGpt, python, flask, html, css
-- gitAddress, 클릭(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
+## 프로젝트
+  # 1. ChatGpt를 이용한 의류 추천 
+  - using :  ChatGpt, python, flask, html, css
+  - - gitAddress, 클릭(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
 <!--
 **DoorianCH/DoorianCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
