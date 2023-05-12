@@ -4,7 +4,8 @@
 - 📫 I’m currently studing on 'ICT inovation'.
 ## Project
 ### 1. Recommend-cloths-using-ChatGpt appveyor
-  - using : ChatGpt, python, flask, html, css <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  - using : ChatGpt, python, flask, html, css <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+- Flutter
   - gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
 * * *
