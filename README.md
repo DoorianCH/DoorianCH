@@ -1,4 +1,4 @@
-# Hi my name is Jay.👋👋 Store various codes and information of AI technology
+## Hi my name is Jay.👋 Store various codes and information of AI technology
 
 ## Introduction
 - 📫 I’m currently studing on 'ICT inovation'.
@@ -11,7 +11,7 @@
 
 
 
-# 제 이름은 재광입니다. 👋 AI기술의 각종 코드 및 정보를 기록합니다.
+## 반가워요, 제 이름은 재광입니다. 👋 AI기술의 각종 코드 및 정보를 기록합니다.
 
 ## 소개
 - 📫 현재 'ICT inovation'교육을 수강중입니다.
