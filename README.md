@@ -3,8 +3,8 @@
 ## Introduction
 - History :
   - Graduation "Gyeongin National University of Education" (2011.03 ~ 2017.02)
-  - Working "JARAN elementary school" homeroom teacher (2018.03 ~ 2019.02) [URL](https://jaran-e.goept.kr/jaran-e/main.do)
-  - Working "Gwangju National University of Education" homeroom teacher (2021.03 ~ 2022.02) [URL](https://jaran-e.goept.kr/jaran-e/main.do) 
+  - Working "JARAN elementary school" homeroom teacher (2018.03 ~ 2019.02) [Click](https://jaran-e.goept.kr/jaran-e/main.do)
+  - Working "Gwangju National University of Education" homeroom teacher (2021.03 ~ 2022.02) [Click](https://jaran-e.goept.kr/jaran-e/main.do) 
   
      
 - 📫 I’m currently studing on 'ICT inovation'.
