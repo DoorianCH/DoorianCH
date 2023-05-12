@@ -1,7 +1,7 @@
-# Hi my name is Jay. 👋👋 Store various codes and information of AI technology
+# Hi my name is Jay.👋👋 Store various codes and information of AI technology
 
 ## Introduction
-
+- 📫 I’m currently studing on 'ICT inovation'.
 ## Project
 ### 1. Recommend-cloths-using-ChatGpt
   - using : ChatGpt, python, flask, html, css
@@ -11,10 +11,10 @@
 
 
 
-# 이곳은 포트폴리오 페이지입니다.👋👋 AI기술의 각종 코드 및 정보를 기록합니다.
+# 제 이름은 재광입니다. 👋 AI기술의 각종 코드 및 정보를 기록합니다.
 
 ## 소개
-
+- 📫 현재 'ICT inovation'교육을 수강중입니다.
 ## 프로젝트
 ### 1. ChatGpt를 이용한 의류 추천 
   - using :  ChatGpt, python, flask, html, css
