@@ -1,6 +1,6 @@
 # Hi my name is Jay. 👋👋 Store various codes and information of AI technology
 
-## 소개
+## Introduction
 
 ## Project
   ### 1. Recommend-cloths-using-ChatGpt
