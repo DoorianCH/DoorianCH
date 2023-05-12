@@ -1,4 +1,5 @@
-## Here is the "Portfolio" page.👋👋👋, Store various codes and information of AI technology
+## Hi my name is Jay. 👋👋👋
+## Store various codes and information of AI technology
 
 ### 1. Using 'ChatGpt4', Crate Website
 - Use 'ChatGPT' to acquire code
@@ -10,7 +11,8 @@
 
 
 
-## 이곳은 포트폴리오 페이지입니다.👋👋👋, AI기술의 각종 코드 및 정보를 기록합니다.
+## 이곳은 포트폴리오 페이지입니다.👋👋👋 
+## AI기술의 각종 코드 및 정보를 기록합니다.
 
 ### 1. 'ChatGpt4'를 활용하여 웹사이트 만들기
 - ChatGpt를 활용하여 코드를 획득한다
