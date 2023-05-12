@@ -1,5 +1,4 @@
 ## Hi my name is Jay.👋 Store various codes and information of AI technology
-<br>
 ## Introduction
 - History :
   - Graduation "Gyeongin National University of Education" (2011.03 ~ 2017.02) [CLICK](https://lms.ginue.ac.kr/?epTicket=LOG)
