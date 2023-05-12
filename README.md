@@ -1,6 +1,11 @@
 ## Hi my name is Jay.👋 Store various codes and information of AI technology
 
 ## Introduction
+- History :
+  Graduation "Gyeongin National University of Education" (2011.03 ~ 2017.02)
+  Working "JARAN elementary school" homeroom teacher (2018.03 ~ 2019.02) URL(https://jaran-e.goept.kr/jaran-e/main.do)
+  
+     
 - 📫 I’m currently studing on 'ICT inovation'.
 ## Project
 ### 1. Recommend-cloths-using-ChatGpt appveyor(2023.05.03 ~ 05.12)
