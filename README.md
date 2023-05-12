@@ -4,7 +4,7 @@
 - 📫 I’m currently studing on 'ICT inovation'.
 ## Project
 ### 1. Recommend-cloths-using-ChatGpt
-  - using : ChatGpt, python, flask, html, css
+  - using : ChatGpt, python, flask, html, css <img src="https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white"/></a>&nbsp
   - gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
 
 * * *
