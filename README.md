@@ -12,7 +12,7 @@
   - Using : <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white"/>, <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   - gitAddress, CLICK(https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
   - structure
-<img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/ed19c022-48fa-4566-a1aa-8d971695e56a" width="50%" height="50%"/>
+<img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/ed19c022-48fa-4566-a1aa-8d971695e56a" width="60%" height="60%"/>
 
 ### 2.🐧Penguin classification artificial intelligence, using random forest
 - Using : <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
