@@ -16,7 +16,7 @@
 
 ### 2. 🎲롱체인을 이용한 D&D게임 제작. D&D game production using Langchain
   - Using :
-  - gitAddress, CLICK()
+  - gitAddress, CLICK(https://github.com/DoorianCH/DnD-game-production-using-Langchain)
 <img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/a80aafd5-50a1-46d0-bc82-85d0c12eea0a" width="50%" height="50%">
 
 ### 3. 🐧Penguin classification artificial intelligence, using random forest
