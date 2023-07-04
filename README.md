@@ -15,10 +15,9 @@
 <img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/ed19c022-48fa-4566-a1aa-8d971695e56a" width="50%" height="50%"/>
 
 ### 2. 🎲롱체인을 이용한 D&D게임 제작. D&D game production using Langchain
-<img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/a80aafd5-50a1-46d0-bc82-85d0c12eea0a" width="50%" height="50%">
-<br>
   - Using :
-  - gitAddress :
+  - gitAddress, CLICK()
+<img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/a80aafd5-50a1-46d0-bc82-85d0c12eea0a" width="50%" height="50%">
 
 ### 3. 🐧Penguin classification artificial intelligence, using random forest
 - Using : <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
