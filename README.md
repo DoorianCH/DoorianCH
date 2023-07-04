@@ -14,8 +14,9 @@
   - structural diagram
 <img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/ed19c022-48fa-4566-a1aa-8d971695e56a" width="50%" height="50%"/>
 
-### 2. 🎲D&D game production using Langchain
+### 2. 🎲롱체인을 이용한 D&D게임 제작. D&D game production using Langchain
 <img src="https://github.com/DoorianCH/DoorianCH/assets/132414381/a80aafd5-50a1-46d0-bc82-85d0c12eea0a" width="50%" height="50%">
+<br>
   - Using :
   - gitAddress :
 
