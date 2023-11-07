@@ -2,7 +2,7 @@
 ## 📃Introduction
 - History :
   - Graduation "Gyeongin National University of Education" (2011.03 ~ 2017.02) [CLICK](https://lms.ginue.ac.kr/?epTicket=LOG)
-  - Working "JARAN elementary school" homeroom teacher (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
+  - Working "Jaran elementary school" homeroom teacher (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
   - Working "Gwangju National University of Education" homeroom teacher (2021.03 ~ 2022.02) [CLICK](http://buseol.gnue.ac.kr/main/main.php)
      
 - 📫 studing on 'ICT inovation'. [CLICK](https://honamict.kr/front/M0000000/index.do;jsessionid=2F03DA68B07F1A450DA4BC56D9A2B82E)
