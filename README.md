@@ -13,7 +13,7 @@
   - 2023 신기술을 활용한  지역문제해결 아이디어 공모전(9/4), 장려상
   - 2023 광주 컨텐츠 진흥원 게임 제작 프로젝트 발표(10/23), 최우수상
   - 2023 광주 컨텐츠 진흥원 XR 메타버스 제작 프로젝트 발표(10/26), 우수상
-  - 2023 국립생태원 '제3회 EcoBank 경진대회'(11/07), 은상 및 동상 [CLICK].(http://www.news-story.co.kr/news/articleView.html?idxno=75132).
+  - 2023 국립생태원 '제3회 EcoBank 경진대회'(11/07), 은상 및 동상 [CLICK](http://www.news-story.co.kr/news/articleView.html?idxno=75132)
   
 ## 💻Project
 ### 1. 👔Chat-gpt-api를 활용한 의류 추천 시스템. Recommend-cloths-using-ChatGpt appveyor(2023.05.03 ~ 05.31) 
