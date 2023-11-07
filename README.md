@@ -5,8 +5,16 @@
   - Working "Jaran elementary school" homeroom teacher (2018.03 ~ 2019.02) [CLICK](https://jaran-e.goept.kr/jaran-e/main.do)
   - Working "Gwangju National University of Education" homeroom teacher (2021.03 ~ 2022.02) [CLICK](http://buseol.gnue.ac.kr/main/main.php)
      
-- 📫 studing on 'ICT inovation'. [CLICK](https://honamict.kr/front/M0000000/index.do;jsessionid=2F03DA68B07F1A450DA4BC56D9A2B82E)
-- Reward : 2023 신기술을 활용한  지역문제해결 아이디어 공모전(9/4), 장려상
+- 📫 Team Building:
+  - 'ICT inovation' Team Building(2023.7 ~ 2023.10). [CLICK](https://honamict.kr/front/M0000000/index.do;jsessionid=2F03DA68B07F1A450DA4BC56D9A2B82E)
+  - '2023 광주 인공지능 컨턴츠 창작랩(AICL)' Team Building(2023.10 ~ 2023.11)
+
+- Reward :
+  - 2023 신기술을 활용한  지역문제해결 아이디어 공모전(9/4), 장려상
+  - 2023 광주 컨텐츠 진흥원 게임 제작 프로젝트 발표(10/23), 최우수상
+  - 2023 광주 컨텐츠 진흥원 XR 메타버스 제작 프로젝트 발표(10/26), 우수상
+  - 2023 국립생태원 '제3회 EcoBank 경진대회'(11/07), 은상 및 동상 [CLICK].(http://www.news-story.co.kr/news/articleView.html?idxno=75132).
+  
 ## 💻Project
 ### 1. 👔Chat-gpt-api를 활용한 의류 추천 시스템. Recommend-cloths-using-ChatGpt appveyor(2023.05.03 ~ 05.31) 
   - Using : <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white"/>, <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
