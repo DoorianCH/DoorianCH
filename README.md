@@ -9,7 +9,7 @@
   - 'ICT inovation' Team Building(2023.7 ~ 2023.10). [CLICK](https://honamict.kr/front/M0000000/index.do;jsessionid=2F03DA68B07F1A450DA4BC56D9A2B82E)
   - '2023 광주 인공지능 컨턴츠 창작랩(AICL)' Team Building(2023.10 ~ 2023.11)
 
-- Reward :
+- 🏆️ Reward :
   - 2023 신기술을 활용한  지역문제해결 아이디어 공모전(9/4), 장려상
   - 2023 광주 컨텐츠 진흥원 게임 제작 프로젝트 발표(10/23), 최우수상
   - 2023 광주 컨텐츠 진흥원 XR 메타버스 제작 프로젝트 발표(10/26), 우수상
