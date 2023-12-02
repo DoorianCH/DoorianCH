@@ -16,7 +16,7 @@
   - 2023 국립생태원 '제3회 EcoBank 경진대회'(11/07), 은상 및 동상 [CLICK](http://www.news-story.co.kr/news/articleView.html?idxno=75132)
   
 ## 💻Project
-### 1. 👔Chat-gpt-api를 활용한 의류 추천 시스템. Recommend-cloths-using-ChatGpt appveyor(2023.05.03 ~ 05.31) 
+### 1. 👔Chat-api를 활용한 의류 추천 시스템. Recommend-cloths-using-ChatGpt appveyor(2023.05.03 ~ 05.31) 
   - Using : <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white"/>, <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   - gitAddress, [CLICK](https://github.com/DoorianCH/Recommend-cloths-using-ChatGpt)
   - structural diagram
